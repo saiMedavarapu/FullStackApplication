@@ -1,0 +1,17 @@
+SOFTWARES
+==================
+
+1) JAVA 1.8
+
+2)MYSQL
+
+3) NEATBEANS 8.1
+
+DATABASE CONFIGURATION
+=========================
+
+USERNAME: root
+
+PASSWORD : root
+
+PORT: 3306
